@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java, SQL<br>🎯 Goals: Developing strong problem-solving and programming skills.</p>
+<p align="left">📚 I'm currently Upskilling in Java, SQL<br>🎯 Goals: Developing strong problem-solving and programming skills.</p>
 
 ###
 
