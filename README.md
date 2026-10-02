@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a software developer from Pune,India</p>
+<p align="left">I'm Full Stack developer </p>
 
 ###
 
